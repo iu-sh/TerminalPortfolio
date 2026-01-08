@@ -385,7 +385,6 @@ const ERROR_ASCII = `Command not found :(`;
 ## 🌐 Deployment
 
 This is a static site and can be deployed to:
-- x20
 - GitHub Pages
 - **Or just open `index.html` directly in your browser!**
 

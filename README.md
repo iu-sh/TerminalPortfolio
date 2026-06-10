@@ -2,6 +2,11 @@
 
 A customizable terminal-themed portfolio website. All content is loaded dynamically from a configuration file — just update `config.js` to make it your own!
 
+## Live Example
+
+Please see the terminal UI at : [ayushsingh.is-a.dev](https://ayushsingh.is-a.dev/)
+
+
 ## Quick Start
 
 1. Download this repository
